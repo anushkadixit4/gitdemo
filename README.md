@@ -1,3 +1,3 @@
 # gitdemo
 <br>
-author - Anushka
+author - Anushka Dixit
